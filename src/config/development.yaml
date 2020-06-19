@@ -1,0 +1,19 @@
+# configuration for cubet pcs
+# every loacal pc's should own a mongodb as its own
+app:
+  logging: true
+  morgan: true
+  port: 7000
+  mailService:
+    user: 
+    pass: 
+
+docsUrl: "localhost:7000"
+
+database:
+   url: mongodb://localhost:27017/gym-test
+
+AWS_BUCKET_NAME: original_bucket_name
+AWS_ACCESS_KEY_ID: original_key_id
+AWS_SECRET_ACCESS_KEY: original_access_key
+AWS_REGION: original_region

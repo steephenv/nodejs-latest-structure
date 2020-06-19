@@ -1,0 +1,20 @@
+# production beta in cloud
+# used for internal use
+app:
+  port: 7555
+  combinedLogger: true #for morgan and winston
+  defaultLogLevel: info
+  docs: true
+  logging: true
+  morgan: true
+  mailService:
+    user: 
+    pass: 
+docsUrl: 
+database:
+  url: mongodb://localhost:27017/gym-test
+
+AWS_BUCKET_NAME: 
+AWS_ACCESS_KEY_ID: 
+AWS_SECRET_ACCESS_KEY: 
+AWS_REGION: 
