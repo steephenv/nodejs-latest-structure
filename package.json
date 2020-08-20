@@ -26,7 +26,7 @@
     "@types/nodemailer": "^6.2.2",
     "@types/shortid": "^0.0.29",
     "aws-sdk": "^2.479.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.3",
     "body-parser": "^1.18.3",
     "chalk": "^2.4.1",
