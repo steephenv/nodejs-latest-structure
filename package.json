@@ -91,7 +91,7 @@
     "@types/winston": "^2.4.4",
     "del": "^3.0.0",
     "git-last-commit": "^0.3.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-cli": "^2.0.1",
     "gulp-exec": "^3.0.2",
     "gulp-markdown": "^3.0.0",
