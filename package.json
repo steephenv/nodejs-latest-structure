@@ -43,7 +43,7 @@
     "got": "^9.3.0",
     "issue-maker": "^1.0.1",
     "joi": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jszip": "2",
     "lme": "^1.5.3",
     "mkdirp": "^0.5.1",
